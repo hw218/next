@@ -1,8 +1,13 @@
 <template>
-  <div />
+  <div>
+    登录界面
+  </div>
 </template>
+
 <script setup lang="ts">
+
 </script>
 
-<style>
+<style lang="scss" scoped>
+
 </style>

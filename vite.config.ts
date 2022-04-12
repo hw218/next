@@ -12,6 +12,6 @@ export default defineConfig({
     vueJsx({})
   ],
   resolve: {
-    alias: { '@': path.join(__dirname, 'scr') }
+    alias: { '@': path.join(__dirname, 'src') }
   }
 })

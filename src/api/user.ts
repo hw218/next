@@ -5,5 +5,5 @@ import request from '@/utils/request'
 
 // 登录
 export const login = () => {
-  return request.get<{status:number, msg:string, data_s:''}>('')
+  return request.get<{status:number, msg:string, data:''}>('')
 }

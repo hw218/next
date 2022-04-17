@@ -2,7 +2,7 @@ module.exports = {
   env: {
     browser: true,
     es2021: true,
-    // 设置编译宏 defineProps未定义警告
+    // 解决编译宏 defineProps未定义警告
     'vue/setup-compiler-macros': true
   },
   extends: [
